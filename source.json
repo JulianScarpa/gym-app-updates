@@ -14,12 +14,12 @@
       "tintColor": "FFB23E",
       "versions": [
         {
-          "version": "1.1",
-          "buildVersion": "2",
+          "version": "1.2",
+          "buildVersion": "3",
           "date": "2026-10-30",
-          "localizedDescription": "Lock screen workout card, Claude bar fix, new icon.",
+          "localizedDescription": "Lock screen card: weight and reps on their own lines, set number, saved confirmation.",
           "downloadURL": "https://raw.githubusercontent.com/JulianScarpa/gym-app-updates/main/GymLog.ipa",
-          "size": 248749,
+          "size": 259118,
           "minOSVersion": "17.0"
         }
       ],
