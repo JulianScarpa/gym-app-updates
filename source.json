@@ -14,12 +14,12 @@
       "tintColor": "FFB23E",
       "versions": [
         {
-          "version": "1.2",
-          "buildVersion": "3",
+          "version": "1.3",
+          "buildVersion": "4",
           "date": "2026-10-30",
-          "localizedDescription": "Lock screen card: weight and reps on their own lines, set number, saved confirmation.",
+          "localizedDescription": "Lock screen card closes when you swipe the app away.",
           "downloadURL": "https://raw.githubusercontent.com/JulianScarpa/gym-app-updates/main/GymLog.ipa",
-          "size": 259118,
+          "size": 261048,
           "minOSVersion": "17.0"
         }
       ],
