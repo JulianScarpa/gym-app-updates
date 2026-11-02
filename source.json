@@ -14,12 +14,12 @@
       "tintColor": "FFB23E",
       "versions": [
         {
-          "version": "1.3",
-          "buildVersion": "4",
-          "date": "2026-10-30",
-          "localizedDescription": "Lock screen card closes when you swipe the app away.",
+          "version": "1.4",
+          "buildVersion": "5",
+          "date": "2026-11-02",
+          "localizedDescription": "Claude's permission pop-ups now show above the gym app.",
           "downloadURL": "https://raw.githubusercontent.com/JulianScarpa/gym-app-updates/main/GymLog.ipa",
-          "size": 261048,
+          "size": 261973,
           "minOSVersion": "17.0"
         }
       ],
