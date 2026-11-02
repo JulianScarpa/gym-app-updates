@@ -14,12 +14,12 @@
       "tintColor": "FFB23E",
       "versions": [
         {
-          "version": "1.4",
-          "buildVersion": "5",
+          "version": "1.5",
+          "buildVersion": "6",
           "date": "2026-11-02",
-          "localizedDescription": "Claude's permission pop-ups now show above the gym app.",
+          "localizedDescription": "Cardio timers on the Lock Screen, alarm lands on zero, one-arm card fits, Lock Screen sets show up right away.",
           "downloadURL": "https://raw.githubusercontent.com/JulianScarpa/gym-app-updates/main/GymLog.ipa",
-          "size": 261973,
+          "size": 267174,
           "minOSVersion": "17.0"
         }
       ],
